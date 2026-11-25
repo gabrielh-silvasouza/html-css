@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(160, 68, 68);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color: rgb(218, 117, 23);
+    background-color: rgb(50, 53, 39);
+}
+h2 {
+     color: rgb(245, 185, 95);
+}
+p {
+    color: rgb(0, 0, 0);
+}
+p {
+    text-align: justify;
+}
